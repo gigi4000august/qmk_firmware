@@ -1,5 +1,6 @@
 #include "layers/alp.c"
 #include "layers/sym.c"
+#include "layers/mod.c"
 #include "layers/fun.c"
 #include "layers/nav.c"
 #include "layers/mse.c"

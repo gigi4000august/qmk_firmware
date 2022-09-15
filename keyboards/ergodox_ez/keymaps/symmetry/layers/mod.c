@@ -1,0 +1,20 @@
+[MOD] = LAYOUT_ergodox(
+
+	_______, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,
+	_______, OS_RGUI, OS_RALT, OS_RCTL, OS_RSFT, XXXXXXX, XXXXXXX,
+	_______, OS_LGUI, OS_LALT, OS_LCTL, OS_LSFT, XXXXXXX,         
+	_______, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,
+	XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,                 
+	                                             TO(ALP), TO(MOD),
+	                                                      XXXXXXX,
+	                                   OSL(FUN), XXXXXXX, XXXXXXX,
+
+	XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, _______,
+	XXXXXXX, XXXXXXX, OS_RSFT, OS_RCTL, OS_RALT, OS_RGUI, _______,
+	         XXXXXXX, OS_LSFT, OS_LCTL, OS_LALT, OS_LGUI, _______,
+	XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, _______,
+	                  XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,
+	TO(MOD), TO(ALP),
+	XXXXXXX,
+	XXXXXXX, XXXXXXX, OSL(FUN)
+),
